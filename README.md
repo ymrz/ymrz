@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Julia and I am front-end engineer. 
+
 <!--
 **ymrz/ymrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
